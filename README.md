@@ -22,3 +22,9 @@ When using "Import file" from the OpenVPN client, it won't place the two other f
 RDP to the VM was excellent. Unzipped the files in the mentioned folder so that they're ready, and started grabbing the videos to watch.
 
 30 days to go :)
+
+## Course Intro
+
+I had the privilege of learning powershell from one of Jeffrey Snover's events. I feel like this is going to come in very handy here. If you're reading this before you start the course - go do a bit of powershell. In a month of lunches maybe, or the old Microsoft Virtual Academy videos if they're still around.
+
+29.9 days to go :)
