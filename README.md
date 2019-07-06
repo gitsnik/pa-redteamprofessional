@@ -38,3 +38,13 @@ I do a lot of administration using the built in tools from day to day, so I am f
 Will actually execute the Objective 1 before proceeding to the next videos, after I commit this log update.
 
 29.85 days to go :)
+
+## Objectives 2 through 4
+
+These are nicely put together. I have to say, because my first language isn't English, I sometimes struggle to follow what the instructor is saying. Because this is not a full scale penetration test, it is sometimes difficult to know what to log and what to ignore. A good example of this is the last part of the 4th objective, where I spent a few minutes trying to enumerate the final part before realising that "No" is an acceptable answer.
+
+There's some really good stuff in this that is going to be put together into a proper script. Full enumeration should happen almost instantaneously, even if we ignore tools like bloodhound.
+
+28.9 days to go. Only 3.5 videos in so far, but 4/23 objectives have been completed and I've already learned stuff.
+
+Powerview is going to be spending a LOT of time in my day to day security management arsenal, from sysops to pentesting. I'm kicking myself for never discovering this tool before.
