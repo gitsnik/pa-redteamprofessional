@@ -48,3 +48,9 @@ There's some really good stuff in this that is going to be put together into a p
 28.9 days to go. Only 3.5 videos in so far, but 4/23 objectives have been completed and I've already learned stuff.
 
 Powerview is going to be spending a LOT of time in my day to day security management arsenal, from sysops to pentesting. I'm kicking myself for never discovering this tool before.
+
+## Objectives 5 through 7
+
+Now we're getting somewhere. The parts on bloodhound make me see how easy it can be, and we're now getting into the parts where some real thinking is required. Either I'm not hearing it properly in the video, or it wasn't pointed out for simple things like RealTimeProtection. Still some work to do with messing with ConstrainedLanguage which I've never encountered before (mostly I use JEA for that sort of thing), so this will be fun.
+
+It is worth remembering that these are learning objectives and not necessarily exam points. This is particularly reminding me of my SGDE exam, wherein there are two parts that I thought should be related but couldn't see how (because... they weren't, they just happened to exist in the same space).
