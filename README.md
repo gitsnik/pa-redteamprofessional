@@ -54,3 +54,11 @@ Powerview is going to be spending a LOT of time in my day to day security manage
 Now we're getting somewhere. The parts on bloodhound make me see how easy it can be, and we're now getting into the parts where some real thinking is required. Either I'm not hearing it properly in the video, or it wasn't pointed out for simple things like RealTimeProtection. Still some work to do with messing with ConstrainedLanguage which I've never encountered before (mostly I use JEA for that sort of thing), so this will be fun.
 
 It is worth remembering that these are learning objectives and not necessarily exam points. This is particularly reminding me of my SGDE exam, wherein there are two parts that I thought should be related but couldn't see how (because... they weren't, they just happened to exist in the same space).
+
+## Objectives 8 through 11
+
+Now that we've gotten through a lot of the "basics", the domain persistence parts are fun and somewhat easy to go through. I'm making a cheatsheet as I go so that I can easily refer back to specific commands as necessary, and all I'm doing is flowing through. It's really good fun to execute some of these attacks in the lab environment just knowing that it doesn't matter if you break something or not. The only problem I'm really hitting is the implication that I can execute code via WMI, none of which seems to actually work when I try it. That said, all the file listing and silver ticketing works, so it's probably just that I'm not trying the right thing yet. My goal at the moment is to bolt through the course, then go back and re-do the parts I didn't know before hand - WMI is apparently one of those :)
+
+## Objectives 12 through 16
+
+We've got domain admin, now what can we do with it. Or, we've got domain user, what can we do with that. All very fun :)
