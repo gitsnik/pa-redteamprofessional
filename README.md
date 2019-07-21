@@ -62,3 +62,29 @@ Now that we've gotten through a lot of the "basics", the domain persistence part
 ## Objectives 12 through 16
 
 We've got domain admin, now what can we do with it. Or, we've got domain user, what can we do with that. All very fun :)
+
+## Objectives 17 through 18
+
+Delegation. More delegation. Good to work through, but not something I've ever actually encountered in the wild to my knowledge (as a sysadmin). Still, good to know and it helped me find two anomalies in my own corporate environment.
+
+## Objectives 19 through 22
+
+This! This is what I signed up for. Attacking across trusts both internal and external. Elevating privileges with nothing more than a domain administrator account. These are really quick objectives, really easy to learn now that we've mostly gotten through the course but they are SO DAMNED EFFECTIVE.
+
+And doing that for Objective 22. I've never even seen that (although I did admin that sort of machine for a few years) BUT it worked, and first time.
+
+## Objective 23
+
+I will be holding off on this objective until the end, because of what it takes to execute the attack.
+
+## Defense
+
+What can I say about defense? I made 398 lines of notes from the videos. The deception sections were good reading as well.
+
+My only problem with defense is that it perhaps wasn't as complete as I would like. THAT SAID, there's a blurry line between group policy settings to manage hardening of PAW's, and what you can do to prevent/detect golden tickets, so it's probably good :)
+
+## QUICK REVIEW
+
+Good. Effective. Jumps around a little bit (AMSI bypass, for example, is used a lot but not explained until much later). Overall a really good introduction and I want to say intermediate look into Active Directory.
+
+Following the old 80/20 rule, you could follow this course and implement 20% of the defensive recommendations and dramatically improve your network security. Based on my notes, implementing nearly 60% of the recommendations could be done with NO DETECTABLE CHANGES BY THE END USERS. There's really no excuse.
