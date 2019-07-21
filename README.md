@@ -88,3 +88,5 @@ My only problem with defense is that it perhaps wasn't as complete as I would li
 Good. Effective. Jumps around a little bit (AMSI bypass, for example, is used a lot but not explained until much later). Overall a really good introduction and I want to say intermediate look into Active Directory.
 
 Following the old 80/20 rule, you could follow this course and implement 20% of the defensive recommendations and dramatically improve your network security. Based on my notes, implementing nearly 60% of the recommendations could be done with NO DETECTABLE CHANGES BY THE END USERS. There's really no excuse.
+
+14 days to go. Time to build significant amounts of automation and prepare for the 24 hour exam.
