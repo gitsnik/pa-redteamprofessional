@@ -90,3 +90,17 @@ Good. Effective. Jumps around a little bit (AMSI bypass, for example, is used a 
 Following the old 80/20 rule, you could follow this course and implement 20% of the defensive recommendations and dramatically improve your network security. Based on my notes, implementing nearly 60% of the recommendations could be done with NO DETECTABLE CHANGES BY THE END USERS. There's really no excuse.
 
 14 days to go. Time to build significant amounts of automation and prepare for the 24 hour exam.
+
+## Objective 23
+
+This was pretty easy actually once it came to it. Two points to note because I feel like they were glossed over (or I didn't note them down properly). Once shifting up to the forest root, if the domain is reset you may lose access to the system and need a reversion. Don't be afraid to send the email though, they're really responsive :)
+
+Second point is to be sure that you have lsadump'd the forest root admin password. You'll need that to PTH before executing this attack.
+
+## EXAM PREP
+
+Less than 5 hours to go until my exam. Final review of techniques I'm not fully comfortable with, and a final review of the lab manuals to be sure I haven't missed anything.
+
+I have, so far, written nearly 30 pages of notes (LaTeX is a beautiful thing) in preparation for the final report. I have two main cheatsheet documents (one for execution, one for enumeration). The goal of the exam means that I can, to a limited degree, ignore some of the later persistence techniques, but I've got notes on them... just in case :) I have prepared automation for the enumeration phase to be sure that I cover most or all of the points, and I've got a copy of bloodhound ready to go.
+
+Now, for the coffee...
